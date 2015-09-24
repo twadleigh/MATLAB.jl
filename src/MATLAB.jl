@@ -40,5 +40,6 @@ module MATLAB
     include("mstatements.jl")
     include("engine.jl")
     include("matstr.jl")
+    include("mex.jl")
 
 end # module
